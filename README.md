@@ -1,4 +1,8 @@
 # QuickThrow for SPT 4.x
+THIS IS AN REUPLOAD AND ILL DELETE IT IF THE CREATOR WANT IT TO BE 
+
+still testing the mod, so might be plenty of bugs 
+
 
 QuickThrow restores fast grenade throwing for SPT 4.x. Instead of equipping a
 grenade in hand first, the mod starts Tarkov's quick grenade controller and
