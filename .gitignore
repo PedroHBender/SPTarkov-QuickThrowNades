@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.zip
+
+# Local game paths and generated BepInEx files should not be committed.
+BepInEx/
+QuickThrow_log.txt
+debug.cfg
+
+# IDE folders
+.vs/
+.vscode/
